@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(221, 99, 62, 0.877);
+}
+
+td {
+    background-color: rgb(200, 224, 92);
+}
+
+td:hover {
+    background-color: #f5f5f5;
+}
+
+table {
+    margin: auto;
+    padding: 15px;
+    border-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    border-radius: 12px;
+    background-color: chartreuse;
+    border: 2px solid #000000;
+}
